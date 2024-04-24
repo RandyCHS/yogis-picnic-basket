@@ -1,0 +1,32 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAMDMzAwAAADA7O7u7gIAAOzu7u7uLgAA7u4iIuLuAuDuLiIiIuIC4O4iIiIiIi7g7i4iIiIiLs7MLCIiIiLkfGcsIiIiIuR37iIiIiIi5ODiRCIiIkLi4CJVJCIiQg4ALlQkIiIkDgAuIiIiROIAAOAuIiLiDgAAAODu7g4AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "apple"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAADu7u7uDgAA7iIiIu7OAOAiREQk4s4ALkJFIiLuwgAuRCIiIiLOAC4kIkIi4s6AKGJmJiIkzGbod3cmIiLOYIZ3ZyJC4gwAZncmQuLuDABgZyIiIu4MAHZ3Zy7izgBgZ2h35+4MAIAIhnZ3zAAAAACAYGYGAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "berry"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAODuDAAAAAAALiLCAAAAAOBC4i4MAAAA4CXi7uIAAADgJCLiwgAAAOAiIuLCAAAAyC4iIu4AAABoLCLizswAAGjI7C4i4gxghwDgQiLuzmCHAOAlIu7CdggA4CQi4sJ2iGbIIiLiwnZ2d2YsIu7CdoiIiMgiIgyGCAAAAO7MAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cherry"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAALC7u7sLAAAAsLM9MwsAAAA7s9XTCwAAADuz1VOzAACwM71VU70AALAzvVVTtQAAOzO9XTM1CwA7Mz1bPdULsO4z01s1VQvgIz7TWzVVC+siPtNaNVWzO+4z09o9Vb07MzPT2r3dvbA6M93avd2tAKA6Pdq9O6sAAKCqqqqqCg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cake"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAEREAAAAM0tEXVUEADARvdTdVUUA0xERvVVdRTDdHRHRW9VFExHRERG91QQTEREdEbHdBNsREdER0dsEM90R0RERSwDT0R0RERFLAB0RHREdEb0AHRHRER0RPQATHRERHdEDABMzG9E7MwAAMDEwMwsAAAAAMwAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ice cream"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
